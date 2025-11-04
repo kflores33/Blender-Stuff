@@ -1,3 +1,0 @@
-prop_name,proptype,value,default,min,max,soft_min,soft_max,step,precision,overridable,description,subtype,array_type
-SNAP-Weapon,int,2,1,0,4,0,4,1,,False,,NONE,
-Weapon-MASTER,int,1,0,0,1,0,1,1,,False,,NONE,
